@@ -5,7 +5,6 @@
 A modular Python-based desktop application for FITS spectroscopy and spectropolarimetric data analysis and visualization.
 
 
-
 \## Features
 
 
